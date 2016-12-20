@@ -1,7 +1,7 @@
 {
   "name": "Mattermost Heroku",
   "description": "Deploy Mattermost to Heroku",
-  "repository": "https://github.com/mozilla/mattermost-heroku",
+  "repository": "https://github.com/nextlevelshit/mattermost-heroku",
   "keywords": ["mattermost", "nginx"],
   "success_url": "/",
   "buildpacks": [
